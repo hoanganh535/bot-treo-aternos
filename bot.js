@@ -11,7 +11,7 @@ server.listen(process.env.PORT || 8080, () => {
   console.log('--- Web Server da kich hoat de chong ngu ---');
 });
 
-const HOST = 'HoangAnh67.aternos.me'
+const HOST = '22175'
 const PORT = 22175
 
 function startBot() {
