@@ -1,0 +1,14 @@
+{
+  "name": "bot-afk-aternos",
+  "version": "1.0.0",
+  "description": "Bot treo Aternos 1.21.6",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "latest",
+    "mineflayer-pathfinder": "latest",
+    "minecraft-data": "latest"
+  }
+}
